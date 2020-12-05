@@ -9,6 +9,7 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+// O(n) solution
 class Solution {
 public:
     TreeNode* invertTree(TreeNode* root) 
