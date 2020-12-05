@@ -1,2 +1,2 @@
 # LeetCode
-Completed LeetCode questions with associated problem number.
+Completed LeetCode questions with their associated problem number. Completed primarily in C++.
